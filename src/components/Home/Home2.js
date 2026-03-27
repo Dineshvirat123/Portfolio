@@ -19,36 +19,22 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a self motivated Programmer, self taught developer 😎 and developed some cool projects...🤷‍♂️
+              I am a self-motivated DevOps Engineer 🚀 and a passionate self-learner, continuously building and improving real-world infrastructure and automation projects.
               <br />
-              <br />I have a great fundation 🧑‍💻 in languages like
+              <br />I have a strong foundation 🧑‍💻 in tools and technologies
               <i>
-                <b className="purple"> Java, Javascript, Python and React. </b>
+                <b className="purple"> Linux, AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, and Git. </b>
               </i>
               <br />
               <br />
-              I am interested in the fields of &nbsp;
+            
               <i>
-                <b className="purple">web Tech Products and applications </b> and
-                also in areas related to{" "}
+                <b className="purple">I am deeply interested in the fields of Cloud Computing ☁️, DevOps practices, CI/CD pipelines, and Infrastructure as Code. </b> 
                 <b className="purple">
-                  Artificial Intelligence  and Machine Learning 🤖
+                  I actively apply my skills to design, automate, and deploy scalable applications using AWS services and modern DevOps tools, ensuring reliability, efficiency, and continuous delivery
                 </b>
               </i>
-              <br />
-              <br />
-              I also apply my skills and passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js</b>
-              </i>
+             
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -66,7 +52,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/kethesainikhil"
+                  href="https://github.com/Dineshvirat123/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -76,7 +62,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/kethesainikhil"
+                  href="https://x.com/imdinesh2002"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -86,7 +72,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/kethesainikhil/"
+                  href="https://www.linkedin.com/in/annavaram-dinesh-kumar-reddy-866b02370/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -94,16 +80,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/kethesainikhil"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
-                </a>
-              </li>
+              
             </ul>
           </Col>
         </Row>
